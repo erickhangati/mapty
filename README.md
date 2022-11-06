@@ -22,3 +22,7 @@ The workout will be saved on your local storage and loaded on the side bar.
 1. HTML
 2. CSS (Grid / Flex)
 3. Vanilla JavaScript (APIs - Leaflet Maps, LocationIQ Geocoding)
+
+## Live link to the Mapty Workout App
+
+[https://eric-mapty-workout-app.netlify.app/](https://eric-mapty-workout-app.netlify.app/ "Mapty Workout App")
